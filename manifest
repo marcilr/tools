@@ -24,3 +24,6 @@
 
 # Dewalt
 git@github.com:marcilr/dewalt   dewalt
+
+# Worx yard tools
+git@github.com:marcilr/worx     worx
