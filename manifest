@@ -23,7 +23,10 @@
 
 
 # Dewalt
-git@github.com:marcilr/dewalt   dewalt
+git@github.com:marcilr/dewalt      dewalt
+
+# Measuring
+git@github.com:marcilr/measuring   measuring
 
 # Worx yard tools
-git@github.com:marcilr/worx     worx
+git@github.com:marcilr/worx        worx
